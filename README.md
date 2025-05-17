@@ -1,6 +1,3 @@
-Here’s a professional and engaging README draft for your [Everdice GitHub repository](https://github.com/dkoepsell/Everdice), formatted in Markdown:
-
----
 
 # Everdice 🎲
 
